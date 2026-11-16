@@ -1,6 +1,8 @@
-# Your own music stays local: bring your own track.
+# Only the bundled, openly licensed mix is committed; your own music stays local.
 music/*
 !music/README.md
+!music/CREDITS.md
+!music/christmas-lofi.mp3
 
 # Written by Claude Code when it loads the plugin.
 .claude-plugin/types/

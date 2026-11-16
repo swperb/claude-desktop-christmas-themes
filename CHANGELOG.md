@@ -4,6 +4,8 @@ All notable changes to this plugin. Versions follow [Semantic Versioning](https:
 a hotfix bumps the patch number, a new theme bumps the minor number.
 
 ## [Unreleased]
+### Added
+- Bundled **Christmas Lofi** mix (~36 min) of CC0 tracks by HoliznaCC0 and CC BY 4.0 tracks by Lobo Loco, playing by default. Credits in `music/CREDITS.md`.
 
 ## [0.1.0] - 2026-11-16
 ### Added
