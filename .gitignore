@@ -1,0 +1,10 @@
+# Your own music stays local: bring your own track.
+music/*
+!music/README.md
+
+# Written by Claude Code when it loads the plugin.
+.claude-plugin/types/
+
+.DS_Store
+*.log
+dist/

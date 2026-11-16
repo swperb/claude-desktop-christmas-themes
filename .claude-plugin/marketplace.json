@@ -1,0 +1,16 @@
+{
+  "name": "claude-desktop-christmas-themes",
+  "owner": {
+    "name": "swperb"
+  },
+  "metadata": {
+    "description": "Animated Christmas themes for Claude Desktop."
+  },
+  "plugins": [
+    {
+      "name": "christmas-themes",
+      "source": "./",
+      "description": "Animated Christmas themes for Claude Desktop with a theme and music control pane."
+    }
+  ]
+}

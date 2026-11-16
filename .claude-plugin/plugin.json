@@ -1,0 +1,11 @@
+{
+  "name": "christmas-themes",
+  "version": "0.1.0",
+  "description": "Animated Christmas themes for Claude Desktop (Snowy Night, Cozy Fireplace) with a control pane for switching themes and playing your own looping music.",
+  "author": { "name": "swperb" },
+  "homepage": "https://github.com/swperb/claude-desktop-christmas-themes",
+  "repository": "https://github.com/swperb/claude-desktop-christmas-themes",
+  "license": "MIT",
+  "keywords": ["theme", "christmas", "desktop", "music"],
+  "types": "./types/index.d.ts"
+}
