@@ -1,7 +1,11 @@
 # Christmas Themes for Claude Desktop
 
 A growing collection of animated Christmas looks for the Claude desktop app, with a
-control pane for switching themes and playing your own music on loop.
+control pane for switching themes and playing lofi Christmas music on loop.
+
+![Snowy Night switching to Cozy Fireplace in Claude Desktop](docs/demo.gif)
+
+*Snowy Night, then Cozy Fireplace, switched from the Christmas pane. [MP4 version](docs/demo.mp4).*
 
 ## Install
 
